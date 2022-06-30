@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adesh0408
-- 👀 I’m interested in Python,Data Science,Machine Learning
+- 👀 I’m interested in Data Analytics,Python,Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Python,Data Science,Machine Learning,Artificial Intelligence
 - 📫 How to reach me adeshkolape@gmail.com
